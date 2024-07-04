@@ -11,21 +11,21 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/mikejsmith9843/MySpaces"
+        "url": "git+https://github.com/mikejsmith9843/MySpaces.git"
     },
     "keywords": [],
     "author": "",
-    "license": "",
+    "license": "ISC",
     "bugs": {
         "url": "git+https://github.com/mikejsmith9843/MySpaces/issues"
     },
     "homepage": "https://github.com/mikejsmith9843/MySpaces#readme",
     "dependencies": {
-        "express": "4.19.2",
-        "mongoose": "8.4.4"
+        "express": "^4.19.2",
+        "mongoose": "^8.4.4"
     },
     "devDependencies": {
-        "nodemon": "3.1.4",
-        "jest": "29.7.0"
+        "jest": "^29.7.0",
+        "nodemon": "^3.1.4"
     }
 }
